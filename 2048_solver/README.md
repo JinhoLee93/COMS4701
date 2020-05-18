@@ -1,4 +1,4 @@
 # 2048 solver using expectiminimax
 
-Execution command line: n/ /n \n n\
+Execution command line: \
 pyhton3 GameManager.py
